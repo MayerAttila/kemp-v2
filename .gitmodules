@@ -1,0 +1,6 @@
+[submodule "kemp-v2-frontend"]
+	path = kemp-v2-frontend
+	url = https://github.com/MayerAttila/kemp-v2-frontend.git
+[submodule "kemp-v2-backend"]
+	path = kemp-v2-backend
+	url = https://github.com/MayerAttila/kemp-v2-backend.git
